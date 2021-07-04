@@ -1,7 +1,7 @@
 {
   "name": "burriq/framework-core",
   "description": "Basic core for web-development",
-  "license": "GPL_3.0-or-later",
+  "license": "GPL-3.0-or-later",
   "autoload": {
     "psr-4": {
       "core\\":"vendor/core",
