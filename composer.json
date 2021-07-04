@@ -2,14 +2,7 @@
   "name": "burriq/framework-core",
   "description": "Basic core for web-development",
   "license": "GPL-3.0-or-later",
-  "autoload": {
-    "psr-4": {
-      "core\\":"vendor/core",
-      "app\\":"app"
-    }
-  },
   "require": {
-    "php": ">=7.4",
     "gabordemooij/redbean":"dev-master"
   }
 }
